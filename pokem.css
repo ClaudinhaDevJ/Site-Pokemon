@@ -1,0 +1,86 @@
+body{
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-image: url(../Pokemon/Poke.jpg);
+color: aliceblue;
+
+
+}
+a{
+text-decoration: none;
+color: blueviolet;    
+}
+
+#login{
+text-align: center;
+justify-content: center;
+align-items: center;
+display: flex;
+flex-direction: row;
+
+}
+
+.Name input{
+    border-radius: 15px;
+    border: none;
+    width: 250px;
+    height: 40px;
+    padding-left: 15px;
+    background-color: rgb(231, 233, 106);
+    color: black;
+    margin-bottom:15px ;
+}
+.ID input{
+ border-radius: 15px;
+ border: none;
+ width: 250px;
+ height: 40px;
+ padding-left: 15px;
+ background-color: rgb(231, 233, 106);
+ color: black;   
+}
+
+.senha input{
+    border-radius: 15px;
+    border: none;
+    width: 250px;
+    height: 40px;
+    padding-left: 15px;
+    background-color: rgb(231, 233, 106);
+    color: black;  
+    margin-top: 15px;
+    text-align: center;
+
+    }
+.entrar input{
+cursor: pointer;
+width: 120px;
+height: 40px;
+border-radius: 20px;
+border: none;
+background-color: rgb(221, 30, 221);
+color: rgb(251, 252, 250);
+
+}
+h1{
+color: rgb(0, 0, 7);
+}
+.caixa {
+margin-top: 65px;
+}
+p{
+border-radius: 10px;
+border: none; 
+color: rgb(14, 8, 0); 
+background-color: bisque;  
+}
+form{
+color: rgb(0, 0, 7);
+background-color: rgb(221, 30, 221);
+
+}
+
+
+
+
+
+
